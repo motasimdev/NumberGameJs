@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    list-style-type: none;
+    display: inline-block;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+/* ================================= */
+
+/* main screen  */
+
+.mainScreen{
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #ddd;
+    text-align: center;
+}
+
+.playerOneNameInput{
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.mainScreenBtn{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    background: #000;
+    color: white;
+    border: none;
+}
+
+.error{
+    margin-top: 30px;
+    background: red;
+    color: white;
+    text-align: center;
+    display: none;
+}
+
+/* main screen end */
+
+
+/* screen two  */
+
+.screenTwo{
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #ddd;
+    text-align: center;
+    display: none;
+}
+
+.playerOneNumberInput{
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.screenTwoBtn{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    background: #000;
+    color: white;
+    border: none;
+}
+
+.error2{
+    margin-top: 30px;
+    background: red;
+    color: white;
+    text-align: center;
+    display: none;
+}
+
+/* screen two end */
+
+
+/* screen three  */
+
+.screenThree{
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #ddd;
+    text-align: center;
+    display: none;
+}
+
+.playerTwoNameInput{
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.screenThreeBtn{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    background: #000;
+    color: white;
+    border: none;
+}
+
+.error3{
+    margin-top: 30px;
+    background: red;
+    color: white;
+    text-align: center;
+    display: none;
+}
+
+/* screen three end */
+
+
+/* screen four  */
+
+.screenFour{
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #ddd;
+    text-align: center;
+    display: none;
+}
+
+.playerTwoNumberInput{
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.screenFourBtn{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    background: #000;
+    color: white;
+    border: none;
+}
+
+.error4{
+    margin-top: 30px;
+    background: red;
+    color: white;
+    text-align: center;
+    display: none;
+}
+
+/* screen three end */
+
+/* final screen  */
+
+.finalScreen{
+    width: 500px;
+    padding: 20px;
+    height: 250px;
+    background: green;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: white;
+    border-radius: 20px;
+    display: none;
+}
+
+.returnBtn{
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 50px;
+}
+
+/* final screen  */
