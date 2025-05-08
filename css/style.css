@@ -191,7 +191,7 @@ a{
     margin-top: 20px;
     color: white;
     border-radius: 20px;
-    display: none;
+    /* display: none; */
 }
 
 .returnBtn{
@@ -199,6 +199,11 @@ a{
     border-radius: 20px;
     border: none;
     margin-top: 50px;
+}
+
+.win{
+    padding-top: 30px;
+    font-size: 30px;
 }
 
 /* final screen  */
